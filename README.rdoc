@@ -1,2 +1,6 @@
 Starting up our Rails Girl App.
 Find all the specifics here: http://guides.railsgirls.com/app/
+
+Helpful Tips
+http://stackoverflow.com/questions/17641348/ruby-split-then-remove-leading-trailing-whitespace-in-place
+http://www.infoq.com/news/2007/06/dsl-or-not
